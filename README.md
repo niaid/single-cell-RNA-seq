@@ -4,8 +4,7 @@ You could download the PDF to find the links from each slides.
 
 [The video presentation](https://nih.sharepoint.com/:v:/s/NIAID-Microbiome-Program/EYVYGFcKM69OpEPaBZ9gRlUB7RGwHH3ydXotReAg_ovtFA?e=2Lezno) is available for NIH viewers. 
 
-
-Collection of published tools for single-cell RNA-seq analysis.
+### Collection of published tools for single-cell RNA-seq analysis.
 
 > [awsome-single-cells](https://github.com/seandavi/awesome-single-cell)
 
