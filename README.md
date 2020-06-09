@@ -13,7 +13,9 @@ Deeplearning approaches for single-cell data.
 > [a tracking collection](https://github.com/TranslationalBioinformaticsUnit/singlecelldb/wiki/Deep-learning-approaches-for-single-cell-data)
 
 
- Methods for Gene Regulatory Networks
+Because of the large number of data points, single cell RNA-seq data are inherently suitable for statistical inferrence of gene-gene relationships.
+
+Methods for Gene Regulatory Networks
 
 > [NIAID github: Finding master genes](https://github.com/niaid/Gene_Regulatory_Networks) and the [video](https://www.youtube.com/watch?v=eMvUteU3WWk&feature=youtu.be)
 
