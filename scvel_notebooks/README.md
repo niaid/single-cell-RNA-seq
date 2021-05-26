@@ -6,7 +6,7 @@ samtools sort -t CB -O BAM -o cellsorted_possorted_genome_bam.bam possorted_geno
  
 # velocyto CLI
 module load python/3.7.3-foss-2016b
-velocyto run10x ~/collin/cellranger_count/yourcellrangerFolder /sysapps/cluster/software/cellranger/3.0.1/refdata-cellranger-mm10-1.2.0/genes/genes.gtf
+velocyto run10x yourcellrangerFolder /sysapps/cluster/software/cellranger/3.0.1/refdata-cellranger-mm10-1.2.0/genes/genes.gtf
 
 
 After this, you will go to the notebooks to 
