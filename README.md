@@ -20,3 +20,7 @@ Methods for Gene Regulatory Networks
 > [NIAID github: Finding master genes](https://github.com/niaid/Gene_Regulatory_Networks) and the [video](https://www.youtube.com/watch?v=eMvUteU3WWk&feature=youtu.be)
 
 [![**youtube video record**](https://img.youtube.com/vi/eMvUteU3WWk/0.jpg)](https://www.youtube.com/watch?v=eMvUteU3WWk&feature=youtu.be)
+
+**Videos**
+- [RNAseq_Part_II_singlecell_RNAseq_Pathway_A.mp4](https://s3.amazonaws.com/proj-bip-prod-publicread/training/single-cell-RNA-seq/RNAseq_Part_II_singlecell_RNAseq_Pathway_A.mp4)
+- [RNAseq_Part_II_singlecell_RNAseq_Pathway_B.mp4](https://s3.amazonaws.com/proj-bip-prod-publicread/training/single-cell-RNA-seq/RNAseq_Part_II_singlecell_RNAseq_Pathway_B.mp4)
