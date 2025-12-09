@@ -23,4 +23,4 @@ Methods for Gene Regulatory Networks
 
 **Videos**
 - [RNAseq_Part_II_singlecell_RNAseq_Pathway_A.mp4](https://s3.amazonaws.com/proj-bip-prod-publicread/training/single-cell-RNA-seq/RNAseq_Part_II_singlecell_RNAseq_Pathway_A.mp4)
-- [RNAseq_Part_II_singlecell_RNAseq_Pathway_B.mp4](https://s3.amazonaws.com/proj-bip-prod-publicread/training/single-cell-RNA-seq/RNAseq_Part_II_singlecell_RNAseq_Pathway_B.mp4)
+- [RNAseq_Part_II_singlecell_RNAseq_Pathway_B.mp4](https://s3.amazonaws.com/proj-bip-prod-publicread/training/single-cell-RNA-seq/RNAseq_Part_II_singlecell_RNAseq_pathway_B.mp4)
